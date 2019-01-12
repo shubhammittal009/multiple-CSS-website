@@ -1,0 +1,26 @@
+body{
+    margin: 0;
+    padding: 0;
+    background-color: #6cecdb;
+}
+title{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif
+}
+canvas{
+    background-color: #6cecdb;
+    z-index: -1;
+    position: absolute;
+    top: 0;
+    left: 0;
+}
+.container{
+    width: 100%;
+    color: darkgrey;
+    font-size: 5vmin;
+    font-family: Lato;
+    text-align: center;
+    z-index: 1;
+    position: absolute;
+    top: 0%;
+    left: 0;
+}
